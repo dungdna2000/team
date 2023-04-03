@@ -2,6 +2,8 @@
 #include "circle.h"
 using namespace std;
 
+// bob add more code to test
+
 void test_circle()
 {
 	Circle c(5);
